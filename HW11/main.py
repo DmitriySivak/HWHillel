@@ -12,7 +12,7 @@ def total():
             continue
         break
     return res
-
+print('hello')
 
 if __name__ == '__main__':
     print(f'Your total score', total())
